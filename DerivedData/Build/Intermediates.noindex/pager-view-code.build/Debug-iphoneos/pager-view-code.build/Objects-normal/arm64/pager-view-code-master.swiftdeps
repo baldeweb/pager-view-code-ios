@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "3c476f1a1c934a78eb7655a27ea29bc9b8ed18343048c552601f5fc2a47f8558"
+build_start_time: [1635978581, 10305881]
+build_end_time: [1635978581, 687783956]
+inputs:
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/AppDelegate.swift": [1635964614, 830716609]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/PageViewController.swift": [1635978580, 701419353]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/PagerViewController.swift": [1635978347, 843380928]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/SceneDelegate.swift": [1635964614, 834527015]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/ViewController.swift": [1635977687, 938816070]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/components/Button.swift": [1635966910, 945984125]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/components/PageButton.swift": [1635976503, 761088848]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/model/PageModel.swift": [1635970187, 749058723]
+  "/Users/wallace/Documents/pager-view-code/pager-view-code/utils/UIUtil.swift": [1635972675, 458079814]

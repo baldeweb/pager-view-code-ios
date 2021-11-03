@@ -1,0 +1,68 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4232c976b80e0cb138476658ea017e77da"
+    },
+    {
+      "guid" : "c0454351b7fe423e3fa99c6b959712088d9080beebafd07190d4d573be8975bd"
+    }
+  ],
+  "containerPath" : "/Users/wallace/Documents/pager-view-code/pager-view-code.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wallace/Documents/pager-view-code/DerivedData/pager-view-code/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wallace/Documents/pager-view-code/DerivedData/pager-view-code/Index/Build/Products",
+      "derivedDataPath" : "/Users/wallace/Documents/pager-view-code/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wallace/Documents/pager-view-code/DerivedData/pager-view-code/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wallace/Documents/pager-view-code/DerivedData/pager-view-code/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/wallace/Documents/pager-view-code/DerivedData/pager-view-code/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/wallace/Documents/pager-view-code/DerivedData/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

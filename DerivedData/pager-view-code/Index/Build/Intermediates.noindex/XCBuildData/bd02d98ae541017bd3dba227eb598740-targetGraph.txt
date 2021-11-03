@@ -1,0 +1,13 @@
+Target dependency graph (6 targets)
+SnapKit in Pods, no dependencies
+Pods-pager-view-code in Pods, depends on:
+SnapKit in Pods (explicit)
+pager-view-code in pager-view-code, depends on:
+Pods-pager-view-code in Pods (implicit dependency via file 'Pods_pager_view_code.framework' in build phase 'Link Binary')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')
+SnapKit in Pods, no dependencies
+Pods-pager-view-code in Pods, depends on:
+SnapKit in Pods (explicit)
+pager-view-code in pager-view-code, depends on:
+Pods-pager-view-code in Pods (implicit dependency via file 'Pods_pager_view_code.framework' in build phase 'Link Binary')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')

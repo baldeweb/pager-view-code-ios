@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03B47E74-B316-4B68-B051-684055CB40AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>03B47E74-B316-4B68-B051-684055CB40AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671266.12635803</real>
+			<key>timeStoppedRecording</key>
+			<real>657671266.20912504</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>03B47E74-B316-4B68-B051-684055CB40AD</string>
+		</dict>
+		<key>062C6388-6E3F-441C-AEDE-07EC6DC0344C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>062C6388-6E3F-441C-AEDE-07EC6DC0344C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668746.01768005</real>
+			<key>timeStoppedRecording</key>
+			<real>657668746.07749999</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>062C6388-6E3F-441C-AEDE-07EC6DC0344C</string>
+		</dict>
+		<key>0D50E1F6-6B32-4DFE-91CE-FB2AA128F8AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0D50E1F6-6B32-4DFE-91CE-FB2AA128F8AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670208.96765006</real>
+			<key>timeStoppedRecording</key>
+			<real>657670209.05673099</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0D50E1F6-6B32-4DFE-91CE-FB2AA128F8AD</string>
+		</dict>
+		<key>12D1FB5F-FBAB-4539-9441-78ACB22568C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>12D1FB5F-FBAB-4539-9441-78ACB22568C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670755.74149704</real>
+			<key>timeStoppedRecording</key>
+			<real>657670755.82420897</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>12D1FB5F-FBAB-4539-9441-78ACB22568C0</string>
+		</dict>
+		<key>1F3103FD-AEA3-4213-9331-A76477725CBF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1F3103FD-AEA3-4213-9331-A76477725CBF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670516.99978006</real>
+			<key>timeStoppedRecording</key>
+			<real>657670517.09928596</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1F3103FD-AEA3-4213-9331-A76477725CBF</string>
+		</dict>
+		<key>201C5A22-8EB9-41EC-A9EF-E35AA7329FBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>201C5A22-8EB9-41EC-A9EF-E35AA7329FBB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671380.74895799</real>
+			<key>timeStoppedRecording</key>
+			<real>657671380.83638</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>201C5A22-8EB9-41EC-A9EF-E35AA7329FBB</string>
+		</dict>
+		<key>265B3032-8F23-435B-A74D-8448340C1159</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>265B3032-8F23-435B-A74D-8448340C1159.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670389.67502904</real>
+			<key>timeStoppedRecording</key>
+			<real>657670389.80241001</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>265B3032-8F23-435B-A74D-8448340C1159</string>
+		</dict>
+		<key>26B8B4CA-9271-4A29-B42A-3614B2CBDE6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>26B8B4CA-9271-4A29-B42A-3614B2CBDE6E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669255.42222297</real>
+			<key>timeStoppedRecording</key>
+			<real>657669255.47668695</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>26B8B4CA-9271-4A29-B42A-3614B2CBDE6E</string>
+		</dict>
+		<key>280DC57D-4596-4DC7-99E5-5DC387E67936</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>280DC57D-4596-4DC7-99E5-5DC387E67936.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668750.65756702</real>
+			<key>timeStoppedRecording</key>
+			<real>657668750.69757295</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>280DC57D-4596-4DC7-99E5-5DC387E67936</string>
+		</dict>
+		<key>2A827BA4-D141-41F4-8F40-222CA6FA16CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2A827BA4-D141-41F4-8F40-222CA6FA16CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Pods-pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668350.46605504</real>
+			<key>timeStoppedRecording</key>
+			<real>657668350.51436996</real>
+			<key>title</key>
+			<string>Pods-pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2A827BA4-D141-41F4-8F40-222CA6FA16CA</string>
+		</dict>
+		<key>2D14F4D3-7F56-4DFC-8A2F-0EED05C92E33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2D14F4D3-7F56-4DFC-8A2F-0EED05C92E33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669336.26027298</real>
+			<key>timeStoppedRecording</key>
+			<real>657669336.31353605</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2D14F4D3-7F56-4DFC-8A2F-0EED05C92E33</string>
+		</dict>
+		<key>2D530DF0-6F25-4736-B959-F1C4892D3C31</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2D530DF0-6F25-4736-B959-F1C4892D3C31.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670497.26454794</real>
+			<key>timeStoppedRecording</key>
+			<real>657670497.319947</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2D530DF0-6F25-4736-B959-F1C4892D3C31</string>
+		</dict>
+		<key>368E9713-A111-4851-965B-66A286636A7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>368E9713-A111-4851-965B-66A286636A7C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670776.39995003</real>
+			<key>timeStoppedRecording</key>
+			<real>657670776.44912601</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>368E9713-A111-4851-965B-66A286636A7C</string>
+		</dict>
+		<key>3A143242-8C15-4887-AB0C-4110B4F84DFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3A143242-8C15-4887-AB0C-4110B4F84DFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>SnapKit Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668350.51446199</real>
+			<key>timeStoppedRecording</key>
+			<real>657668350.55440104</real>
+			<key>title</key>
+			<string>SnapKit Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3A143242-8C15-4887-AB0C-4110B4F84DFA</string>
+		</dict>
+		<key>3C0E889B-D610-4F43-8EA0-ABB9BFEE8B62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3C0E889B-D610-4F43-8EA0-ABB9BFEE8B62.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668465.57247198</real>
+			<key>timeStoppedRecording</key>
+			<real>657668465.66517901</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3C0E889B-D610-4F43-8EA0-ABB9BFEE8B62</string>
+		</dict>
+		<key>3CFD4291-462C-40BC-806B-F498F0926664</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3CFD4291-462C-40BC-806B-F498F0926664.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670543.68226397</real>
+			<key>timeStoppedRecording</key>
+			<real>657670543.76559103</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3CFD4291-462C-40BC-806B-F498F0926664</string>
+		</dict>
+		<key>3DD07425-D369-4958-82EF-E13BC997EC84</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3DD07425-D369-4958-82EF-E13BC997EC84.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671255.875983</real>
+			<key>timeStoppedRecording</key>
+			<real>657671255.95995998</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3DD07425-D369-4958-82EF-E13BC997EC84</string>
+		</dict>
+		<key>439E8A87-A2FC-4FD0-916C-659234CBB892</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>439E8A87-A2FC-4FD0-916C-659234CBB892.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669715.08754098</real>
+			<key>timeStoppedRecording</key>
+			<real>657669715.18874705</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>439E8A87-A2FC-4FD0-916C-659234CBB892</string>
+		</dict>
+		<key>593301F7-F626-414A-BF86-5ACF5C6E270C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>593301F7-F626-414A-BF86-5ACF5C6E270C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670436.88546801</real>
+			<key>timeStoppedRecording</key>
+			<real>657670436.96649301</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>593301F7-F626-414A-BF86-5ACF5C6E270C</string>
+		</dict>
+		<key>594AB6D3-B405-44E3-871C-A644190F2679</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>594AB6D3-B405-44E3-871C-A644190F2679.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670487.95712304</real>
+			<key>timeStoppedRecording</key>
+			<real>657670488.07563698</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>594AB6D3-B405-44E3-871C-A644190F2679</string>
+		</dict>
+		<key>5A4C1573-6CFC-4D5C-9164-1791FC8A5218</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5A4C1573-6CFC-4D5C-9164-1791FC8A5218.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668906.22625303</real>
+			<key>timeStoppedRecording</key>
+			<real>657668906.32234097</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5A4C1573-6CFC-4D5C-9164-1791FC8A5218</string>
+		</dict>
+		<key>5DBF266A-97C9-484F-9D34-4420A6388E39</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5DBF266A-97C9-484F-9D34-4420A6388E39.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>657668347.76497495</real>
+			<key>timeStoppedRecording</key>
+			<real>657668349.257792</real>
+			<key>title</key>
+			<string>pager-view-code Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>5DBF266A-97C9-484F-9D34-4420A6388E39</string>
+		</dict>
+		<key>6019045C-4F7A-4F3A-880C-98EFC5A75970</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6019045C-4F7A-4F3A-880C-98EFC5A75970.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670772.46008694</real>
+			<key>timeStoppedRecording</key>
+			<real>657670772.55021203</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6019045C-4F7A-4F3A-880C-98EFC5A75970</string>
+		</dict>
+		<key>625AA506-22DA-4BE3-840A-578D5352A4A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>625AA506-22DA-4BE3-840A-578D5352A4A3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669451.24782705</real>
+			<key>timeStoppedRecording</key>
+			<real>657669451.29171896</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>625AA506-22DA-4BE3-840A-578D5352A4A3</string>
+		</dict>
+		<key>6E8FAED4-77E1-4A10-98CA-8F7DAA56A7C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6E8FAED4-77E1-4A10-98CA-8F7DAA56A7C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669354.39706898</real>
+			<key>timeStoppedRecording</key>
+			<real>657669354.44474196</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6E8FAED4-77E1-4A10-98CA-8F7DAA56A7C1</string>
+		</dict>
+		<key>719E41C0-6ED9-4D0E-9A7C-848959D507E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>719E41C0-6ED9-4D0E-9A7C-848959D507E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670081.74662304</real>
+			<key>timeStoppedRecording</key>
+			<real>657670081.80346894</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>719E41C0-6ED9-4D0E-9A7C-848959D507E7</string>
+		</dict>
+		<key>734D66AF-DB51-4211-B930-DA6ED1A8BB42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>734D66AF-DB51-4211-B930-DA6ED1A8BB42.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671147.90596604</real>
+			<key>timeStoppedRecording</key>
+			<real>657671148.00328195</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>734D66AF-DB51-4211-B930-DA6ED1A8BB42</string>
+		</dict>
+		<key>7E3050DE-66FA-49D0-998B-04EBB6E7E725</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7E3050DE-66FA-49D0-998B-04EBB6E7E725.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670493.29217398</real>
+			<key>timeStoppedRecording</key>
+			<real>657670493.33565497</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7E3050DE-66FA-49D0-998B-04EBB6E7E725</string>
+		</dict>
+		<key>7F370A1F-BC73-44CA-98D3-9B1FBEBE4B9E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7F370A1F-BC73-44CA-98D3-9B1FBEBE4B9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669365.08063602</real>
+			<key>timeStoppedRecording</key>
+			<real>657669365.18763304</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7F370A1F-BC73-44CA-98D3-9B1FBEBE4B9E</string>
+		</dict>
+		<key>84260815-ECC5-4948-B379-B1E03EEE3508</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>84260815-ECC5-4948-B379-B1E03EEE3508.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668349.28090703</real>
+			<key>timeStoppedRecording</key>
+			<real>657668349.37163401</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>84260815-ECC5-4948-B379-B1E03EEE3508</string>
+		</dict>
+		<key>8426D809-B895-4F8B-BF03-F28B9B9760FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8426D809-B895-4F8B-BF03-F28B9B9760FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657667469.68656099</real>
+			<key>timeStoppedRecording</key>
+			<real>657667469.72749496</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8426D809-B895-4F8B-BF03-F28B9B9760FD</string>
+		</dict>
+		<key>A4092F6C-2414-4269-B350-B62B863FDEEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A4092F6C-2414-4269-B350-B62B863FDEEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669447.56875002</real>
+			<key>timeStoppedRecording</key>
+			<real>657669447.62530303</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A4092F6C-2414-4269-B350-B62B863FDEEC</string>
+		</dict>
+		<key>A9EBEEDD-07DB-4CE9-BEB0-95A02742B1A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A9EBEEDD-07DB-4CE9-BEB0-95A02742B1A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670424.96526504</real>
+			<key>timeStoppedRecording</key>
+			<real>657670425.05406702</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A9EBEEDD-07DB-4CE9-BEB0-95A02742B1A9</string>
+		</dict>
+		<key>C453BAB5-F759-4975-8556-B991B9D62B28</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C453BAB5-F759-4975-8556-B991B9D62B28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>657668347.76470697</real>
+			<key>timeStoppedRecording</key>
+			<real>657668349.37565005</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>C453BAB5-F759-4975-8556-B991B9D62B28</string>
+		</dict>
+		<key>C6D714D9-3CF1-4591-BF63-D679B758D9A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C6D714D9-3CF1-4591-BF63-D679B758D9A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670615.58058798</real>
+			<key>timeStoppedRecording</key>
+			<real>657670615.67998898</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C6D714D9-3CF1-4591-BF63-D679B758D9A2</string>
+		</dict>
+		<key>D9DCB172-5B47-429C-9623-4ECAAA4FAD2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D9DCB172-5B47-429C-9623-4ECAAA4FAD2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669777.02650702</real>
+			<key>timeStoppedRecording</key>
+			<real>657669777.10867703</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D9DCB172-5B47-429C-9623-4ECAAA4FAD2E</string>
+		</dict>
+		<key>DF0B53BC-2024-43BE-85EE-5E484C72E574</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DF0B53BC-2024-43BE-85EE-5E484C72E574.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671092.65821004</real>
+			<key>timeStoppedRecording</key>
+			<real>657671092.84625196</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DF0B53BC-2024-43BE-85EE-5E484C72E574</string>
+		</dict>
+		<key>DF2B3ADA-68B5-4702-AA69-C43E0ED9EBDA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DF2B3ADA-68B5-4702-AA69-C43E0ED9EBDA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668608.55184495</real>
+			<key>timeStoppedRecording</key>
+			<real>657668608.61486697</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DF2B3ADA-68B5-4702-AA69-C43E0ED9EBDA</string>
+		</dict>
+		<key>E8936175-F244-4D2F-B053-331DB2610ACF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E8936175-F244-4D2F-B053-331DB2610ACF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670221.35396802</real>
+			<key>timeStoppedRecording</key>
+			<real>657670221.42858195</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E8936175-F244-4D2F-B053-331DB2610ACF</string>
+		</dict>
+		<key>EBFAD707-186D-47D1-BF2F-AADB1E322399</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>EBFAD707-186D-47D1-BF2F-AADB1E322399.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657670458.57899702</real>
+			<key>timeStoppedRecording</key>
+			<real>657670458.65399802</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>EBFAD707-186D-47D1-BF2F-AADB1E322399</string>
+		</dict>
+		<key>F8E7F181-0681-4D76-BA33-4943AE72979B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F8E7F181-0681-4D76-BA33-4943AE72979B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657668828.57054996</real>
+			<key>timeStoppedRecording</key>
+			<real>657668828.63066304</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F8E7F181-0681-4D76-BA33-4943AE72979B</string>
+		</dict>
+		<key>F93971D7-EC2C-49B0-8EAE-5CFE2A3AC017</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F93971D7-EC2C-49B0-8EAE-5CFE2A3AC017.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>657668346.29810596</real>
+			<key>timeStoppedRecording</key>
+			<real>657668346.52463806</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>F93971D7-EC2C-49B0-8EAE-5CFE2A3AC017</string>
+		</dict>
+		<key>FC8A3B55-1FE2-4DA8-84B8-EA87FDBDB976</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FC8A3B55-1FE2-4DA8-84B8-EA87FDBDB976.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669303.77278602</real>
+			<key>timeStoppedRecording</key>
+			<real>657669303.85657799</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FC8A3B55-1FE2-4DA8-84B8-EA87FDBDB976</string>
+		</dict>
+		<key>FE38483E-BCDA-4CA3-B0F7-ECF3E864CDD2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FE38483E-BCDA-4CA3-B0F7-ECF3E864CDD2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657669297.91906595</real>
+			<key>timeStoppedRecording</key>
+			<real>657669298.03265405</real>
+			<key>title</key>
+			<string>pager-view-code Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FE38483E-BCDA-4CA3-B0F7-ECF3E864CDD2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
